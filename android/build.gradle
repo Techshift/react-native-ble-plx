@@ -46,5 +46,6 @@ repositories {
 
 dependencies {
     implementation "com.facebook.react:react-native:+"
-    implementation 'com.github.Techshift:MultiPlatformBleAdapter:master-SNAPSHOT'
+    implementation 'com.github.Techshift:MultiPlatformBleAdapter:fc375583574ac13939d7b181ef5d5748f6fff87b'
+    // implementation 'com.github.Polidea:MultiPlatformBleAdapter:b0272c0fae040cc90f790481c54e8f2d45304339'
 }
